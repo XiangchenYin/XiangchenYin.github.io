@@ -190,7 +190,9 @@ name span {
     text-align: right;
 }
 .photo img {
-  height: 210px;
+  /*height: 210px;*/
+      height: 180px;
+
 }
 
 
